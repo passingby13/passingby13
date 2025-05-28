@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋 I'm passingby13
 
-<!--
-**passingby13/passingby13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently exploring blockchain and crypto ecosystems.  
+This GitHub account is used mainly to connect with third-party dApps and web3 services.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tools & Tech I’ve explored
+- Wallet integrations (Metamask, WalletConnect)
+- dApps & airdrop platforms
+- GitHub as a Web3 login method
+
+---
+
+### 📫 Connect With Me
+Just here to explore and learn the ecosystem.  
+Not a developer yet, but maybe someday!
